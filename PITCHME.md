@@ -34,7 +34,7 @@
 
 
 @snap[midpoint template-note text-gray]
-### Provide a visual framework for reinterpretation of ideas, and as a validation tool
+## Provide a visual framework for reinterpretation of ideas, and as a validation tool
 @snapend
 
 ---?color=black
