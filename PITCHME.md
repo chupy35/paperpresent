@@ -1,50 +1,12 @@
 ---?image=template/img/portada.png&position=center&size=100% 100%
-### @color[white](Studying Trends and Characteristics in Tensorflow Models)
+### @color[white](Getting Inspired! Understanding How and Why Examples are Used in Creative Design Practice)
 ##### @color[white](December 20th 2018)
 
 &nbsp;
 
-#### @color[white](Bram Adams, Nicole Yu, Javier Rosales)
+#### @color[white](Scarlett R. Herring, Chia-Chen Chang, Jesse Krantzler, and Brian P. Bailey)
 
----?image=template/img/bg/black.jpg&color=white&position=top&size=100% 50%
-@title[The Team]
 
-@snap[north text-white span-100]
-@size[1.5em](The Team)
-@snapend
-
-@snap[west about-team-pic]
-![BRAM](template/img/profile/bram.png)
-@snapend
-
-@snap[south-west text-06]
-@color[#4487F2](Bram Adams)
-<br><br>
-@fa[github](bramadams)
-<br>
-@snapend
-
-@snap[midpoint about-team-pic about-team-pic-center]
-![NICHOLE](template/img/profile/nichole.png)
-@snapend
-
-@snap[south text-06]
-@color[#4487F2](Nicole Yu)
-<br><br>
-@fa[github](nicoleyu0623)
-<br>
-@snapend
-
-@snap[east about-team-pic]
-![JAVIER](template/img/profile/yo.png)
-@snapend
-
-@snap[south-east text-06]
-@color[#4487F2](Javier Rosales)
-<br><br>
-@fa[github](chupy35)
-<br>
-@snapend
 ---?color=black
 @title[Motivation]
 
