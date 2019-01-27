@@ -26,7 +26,7 @@
 @olend
 <br><br>
 @snapend
----?image=template/img/cityscape.png&position=bottom&size=100% 60%
+---?image=template/img/cityscape.png&position=bottom&size=100%
 
 @snap[north span-65]
 @box[bg-blue text-white rounded](Benefit of Examples)
