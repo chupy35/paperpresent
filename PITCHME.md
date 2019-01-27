@@ -1,10 +1,10 @@
 ---?image=template/img/portada.png&position=center&size=100% 100%
 ### @color[white](Getting Inspired! Understanding How and Why Examples are Used in Creative Design Practice)
-##### @color[white](December 20th 2018)
+##### @color[white](Scarlett R. Herring, Chia-Chen Chang, Jesse Krantzler, and Brian P. Bailey)
 
 &nbsp;
 
-#### @color[white](Scarlett R. Herring, Chia-Chen Chang, Jesse Krantzler, and Brian P. Bailey)
+#### @color[white](Javier Rosales)
 
 
 ---?color=black
