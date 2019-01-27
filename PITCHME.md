@@ -12,12 +12,16 @@
 
 @snap[north-west text-white]
 ## How does designers get inspired?
+### Examples:
 @snapend
-Examples:
 
 @snap[south-west list-content-concise span-100 text-white ]
 @ol
-- Examples
+- Benefit of Examples
+- Example Retrieval Strategies
+- Example Storage Strategies
+- Example Sharing
+- Contributing Personal Examples
 
 @olend
 <br><br>
