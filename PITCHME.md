@@ -44,15 +44,15 @@
 @snapend
 
 @snap[north-east span-60 fragment]
-@box[bg-purple text-white](RQ 1.#How the response for issues has evolved over the time for the Models?)
+@box[bg-purple text-white](Active Search.#When the designer is looking for a specific object or info)
 @snapend
 
 @snap[east span-60 fragment]
-@box[bg-orange text-white](RQ 2.#Are the same organizations the same contributing to the models and Framework?)
+@box[bg-orange text-white](Passive Search.#For getting inspired)
 @snapend
 
 @snap[south-east span-60 fragment]
-@box[bg-pink text-white](RQ 3.#Are the same authors developing the framework the ones who develop the Models?)
+@box[bg-pink text-white](They use:#Magazines, books, web and physical product libraries)
 @snapend
 
 
