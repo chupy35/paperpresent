@@ -33,7 +33,7 @@
 @snapend
 
 
-@snap[midpoint template-note text-gray]
+@snap[midpoint template-note text-white]
 # Provide a visual framework for reinterpretation of ideas, and as a validation tool
 @snapend
 
