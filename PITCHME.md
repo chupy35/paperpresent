@@ -11,7 +11,7 @@
 @title[Motivation]
 
 @snap[north-west text-white]
-## How does designers get inspired?
+## How designers get inspired?
 ### Examples:
 @snapend
 
