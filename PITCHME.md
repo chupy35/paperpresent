@@ -40,27 +40,27 @@
 ---?color=black
 
 @snap[west span-45]
-## Retrival strategies
+## Storage strategies
 @snapend
 
 @snap[north-east span-60 fragment]
-@box[bg-purple text-white](Active Search.#When the designer is looking for a specific object or info)
+@box[bg-purple text-white](Tangible Examples.#Magazine clippings, print-outs, photocopies)
 @snapend
 
 @snap[east span-60 fragment]
-@box[bg-orange text-white](Passive Search.#For getting inspired)
+@box[bg-orange text-white](Intangible examples.#Digital Examples)
 @snapend
 
-@snap[south-east span-60 fragment]
-@box[bg-pink text-white](They use:#Magazines, books, web and physical product libraries)
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Text + Image]
+
+@snap[east span-40 text-11 text-white]
+**Example Sharing**
 @snapend
 
-
----?image=template/img/headphones.jpg
-@title[Covered Background]
-
-@snap[west text-black span-15]
-**@size[1.2em](Methodology.)**
+@snap[west]
+They share with:
+- Email
 @snapend
 
 ---?image=template/img/bg/pink.jpg&position=left&size=30% 50%
