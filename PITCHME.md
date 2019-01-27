@@ -60,6 +60,7 @@
 
 @snap[west]
 They share with:
+&nbsp;
 - Email
 @snapend
 
