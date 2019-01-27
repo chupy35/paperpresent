@@ -40,7 +40,7 @@
 ---?color=black
 
 @snap[west span-45]
-## Research Questions
+## Retrival strategies
 @snapend
 
 @snap[north-east span-60 fragment]
