@@ -29,9 +29,20 @@
 ---?image=template/img/cityscape.png&position=bottom&size=100% 60%
 
 @snap[north span-65]
-@box[bg-blue text-white rounded](Previous Work#The Open-Closed Principle of Modern Machine Learning.)
+@box[bg-blue text-white rounded](Benefit of Examples)
 @snapend
 
+@snap[south-west list-content-concise span-100 text-white ]
+@ol
+- Benefit of Examples
+- Example Retrieval Strategies
+- Example Storage Strategies
+- Example Sharing
+- Contributing Personal Examples
+
+@olend
+<br><br>
+@snapend
 
 @snap[midpoint template-note text-gray]
 <br>B. A. Houssem Ben Braiek, Foutse Khomh, The Open-Closed Principle of Modern Machine Learning. In MSR ’18: MSR ’18: 15th International Conference on Mining Software Repositories , May 28–29, 2018
