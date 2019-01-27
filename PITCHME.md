@@ -11,14 +11,12 @@
 @title[Motivation]
 
 @snap[north-west text-white]
-# Motivation
+# How does designers get inspired?
 @snapend
 
 @snap[south-west list-content-concise span-100 text-white ]
 @ol
-- Machine Learning Frameworks and community is in constant evolution
-- Lack of research in studying the Artificial Intelligence Models phenomena
-- Companies creating models store as a service like modeldepot or Amazon.
+- Examples
 
 @olend
 <br><br>
