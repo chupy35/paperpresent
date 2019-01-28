@@ -72,177 +72,21 @@ Email is their favorite
 @snap[west]
 @img[split-screen-img span-100](template/img/graph2.png)
 @snapend
+
+
+---?color=linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+
+@box[bg-orange text-white demo-box-text-padding rounded](Discussion)
+
 ---?image=template/img/bg/pink.jpg&position=left&size=30% 50%
 @title[sidebox + text body]
 
 @snap[west text-white]
-@size[3em](RQ1.)
+@size[3em](1.)
 @snapend
 
 @snap[east span-70]
-Taking in account the date and number of issues: @css[text-pink](Issues Trend over time in Models).
-@snapend
-
----?image=template/img/bg/pink.jpg&position=left&size=30% 50%
-@title[sidebox + text body]
-
-@snap[west text-white]
-@size[3em](RQ1.)
-@snapend
-
-
-@snap[center span-170]
-&nbsp;
-![GRAPH](template/img/graph1.png)
-@snapend
-
----?image=template/img/bg/pink.jpg&position=left&size=30% 50%
-@title[sidebox + text body]
-
-@snap[west text-white]
-@size[3em](RQ1.)
-@snapend
-
-
-@snap[center span-170]
-&nbsp;
-![GRAPH](template/img/graphr.png)
-
-@snapend
----?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@title[Text + Image]
-
-@snap[east span-40 text-11 text-white]
-**RQ1**
-Must of the issues had been closed.
-@snapend
-
-@snap[west]
-@img[split-screen-img span-100](template/img/graph2.png)
-@snapend
-
-
-
----?color=linear-gradient(120deg, #f6d365 0%, #fda085 100%);
-
-@box[bg-orange text-white demo-box-text-padding rounded](Are the same organizations the same contributing to the models and Framework?)
-
----?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@title[Text + Image]
-
-@snap[north-east text-11 text-white]
-**Tensorflow Framework**
-@snapend
-
-@snap[south-east span-40 text-08 text-white]
-Commits: 27191, Authors: 780
-@snapend
-
-
-@snap[east span-40 text-11 text-white]
-@img[split-screen-img span-100](template/img/pie1t.png)
-@snapend
-
-@snap[north-west text-11]
-**Tensorflow Models**
-@snapend
-
-@snap[south-west span-40 text-08]
-Commits: 1785, Authors: 198
-@snapend
-
-
-@snap[west span-40]
-@img[split-screen-img span-100](template/img/pie2m.png)
-@snapend
-
-@snap[south-west template-note text-gray]
-Are the same organizations the same contributing to the models and Framework?
-@snapend
-
----?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@title[Text + Image]
-
-@snap[north-east text-11 text-white]
-**Tensorflow Framework**
-@snapend
-
-@snap[east span-50 text-11 text-white]
-<img src="template/img/graph4t.png"  alt="drawing" width="500"/>
-@snapend
-
-@snap[north-west text-11]
-**Tensorflow Models**
-@snapend
-
-@snap[west span-50]
-<img src="template/img/graph3m.png"  alt="drawing" width="500"/>
-@snapend
-
----?color=linear-gradient(120deg, #f6d365 0%, #fda085 100%);
-
-@box[bg-orange text-white demo-box-text-padding rounded](Are the same authors developing the framework the ones who develop the Models?)
-
----?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@title[Text + Image]
-
-@snap[north-east text-11 text-white]
-**Tensorflow Framework**
-@snapend
-
-@snap[east span-50 text-11 text-white]
-<img src="template/img/authorst.png"  alt="drawing" width="500"/>
-@snapend
-
-@snap[north-west text-11]
-**Tensorflow Models**
-@snapend
-
-@snap[west span-50]
-<img src="template/img/authorsm.png"  alt="drawing" width="500"/>
-@snapend
-
----?image=template/img/bg/orange.jpg&position=top&size=100% 20%
-@title[Header Bar + Image Body]
-
-@snap[north text-white span-100]
-@size[1.5em](RQ3 - True just for 2 authors)
-@snapend
-
-@snap[center span-100]
-![DATAFLOW](template/img/authorsco.png)
-<br><br>
-@snapend
-
----?color=black
-@title[Motivation]
-
-@snap[north-west text-white]
-## Threats to Validity
-@snapend
-
-@snap[center list-content-concise span-100 text-white ]
-@ol
-- Different authors may post as "A. Unique Tensorflower".
-- Precision and Recall of perceval for mining.
-
-@olend
-<br><br>
-@snapend
-
----?color=black
-## Future Work
-@snapend
-
-@snap[center list-content-concise span-100 text-white ]
-@ol
-- Distinguish between research and official models. 
-- Compare with other models.
-- Activities related to the models
-- Study dependencies
-- Size of the Models
-@olend
-<br><br>
+ @css[text-pink](What do you think of the contribution of this paper?).
 @snapend
 
 ---?image=template/img/conclusion2.png&size=100% 100%
