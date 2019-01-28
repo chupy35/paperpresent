@@ -108,8 +108,19 @@ Email is their favorite
 @snapend
 
 @snap[east span-70]
- @css[text-pink](How to  inspirtate designers to contribute to the "libre" community? Should people contribute more to the libre community?).
+ @css[text-pink](How to inspirtate designers to contribute to the "libre" community? Should people contribute more to the libre community?).
 @snapend
 
----?image=template/img/conclusion2.png&size=100% 100%
-@title[Header Bar + Image Body]
+
+---?image=template/img/bg/pink.jpg&position=left&size=30% 50%
+@title[sidebox + text body]
+
+@snap[west text-white]
+@size[3em](4.)
+@snapend
+
+@snap[east span-70]
+ @css[text-pink](Which is a best method to store and share designer content?).
+@snapend
+
+
