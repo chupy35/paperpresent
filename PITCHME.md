@@ -59,11 +59,19 @@
 @snapend
 
 @snap[west]
-They share with:
-&nbsp;
-- Email
+They favorite method for sharing is email
 @snapend
 
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Text + Image]
+
+@snap[east span-40 text-11 text-white]
+**Contributing Personal Examples**
+@snapend
+
+@snap[west]
+@img[split-screen-img span-100](template/img/graph2.png)
+@snapend
 ---?image=template/img/bg/pink.jpg&position=left&size=30% 50%
 @title[sidebox + text body]
 
