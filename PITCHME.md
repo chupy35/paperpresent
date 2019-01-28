@@ -59,7 +59,7 @@
 @snapend
 
 @snap[west]
-They favorite method for sharing is email
+Email is their favorite
 @snapend
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
